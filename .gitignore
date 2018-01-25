@@ -1,3 +1,11 @@
+# npm
+node_modules
+package-lock.json
+
+# parcel
+.cache
+dist
+
 # Binaries for programs and plugins
 *.exe
 *.dll

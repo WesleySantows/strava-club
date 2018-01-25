@@ -1,0 +1,15 @@
+$primary-color: #fc4c02;
+$base-color:  #212129;
+
+body {
+    background: $base-color;
+    font-family: 'Open Sans', sans-serif;  
+    font-weight: 400;
+}
+
+h1 {
+    color: $primary-color;
+    margin: 50px;
+    text-align: center;
+    font-weight: 400;
+}
